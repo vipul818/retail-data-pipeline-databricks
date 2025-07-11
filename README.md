@@ -37,7 +37,7 @@ This project builds a complete, end-to-end data pipeline using **Databricks**, *
 
 This pipeline is orchestrated using **Databricks Jobs**.
 
-- 📋 [Job JSON config](jobs/retail-data-pipeline-job.json)
+- 📋 [Job JSON config](https://github.com/vipul818/retail-data-pipeline-databricks/blob/main/Jobs/retail-data-pipeline-job.json)
 - 📸 DAG:
 
 ![Job Orchestration DAG](https://github.com/vipul818/retail-data-pipeline-databricks/blob/main/dashboard_screenshots/Screenshot%202025-07-12%20002458.png)
