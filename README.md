@@ -62,7 +62,7 @@ Example insights generated from the Delta table:
 ## 🧠 Key Features
 
 - ✅ End-to-end ETL pipeline using PySpark & Delta Lake
-- ✅ OPTIMIZE & Z-ORDER for performance tuning
+- ✅ OPTIMIZE for performance tuning
 - ✅ SQL-based reporting & dashboard visualizations
 - ✅ Git-based version control integrated in Databricks
 - ✅ Automated orchestration using Databricks Jobs
