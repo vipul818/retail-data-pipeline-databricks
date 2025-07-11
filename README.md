@@ -40,7 +40,7 @@ This pipeline is orchestrated using **Databricks Jobs**.
 - 📋 [Job JSON config](jobs/retail-data-pipeline-job.json)
 - 📸 DAG:
 
-![Job Orchestration DAG](dashboard_screenshots/job_orchestration.png)
+![Job Orchestration DAG](https://github.com/vipul818/retail-data-pipeline-databricks/blob/main/dashboard_screenshots/Screenshot%202025-07-12%20002458.png)
 
 ---
 
