@@ -49,10 +49,13 @@ This pipeline is orchestrated using **Databricks Jobs**.
 Example insights generated from the Delta table:
 
 ### 🔹 Sales Trend by Month
-![Sales Trend](dashboard_screenshots/sales_trend.png)
+![Sales Trend](https://github.com/vipul818/retail-data-pipeline-databricks/blob/main/dashboard_screenshots/visualization%20(1).png)
 
-### 🔹 Orders by Discount Category
-![Discount Category Pie](dashboard_screenshots/discount_category.png)
+### 🔹 Order Trend by Month
+![Order Trend by Month](https://github.com/vipul818/retail-data-pipeline-databricks/blob/main/dashboard_screenshots/visualization%20(2).png)
+
+### 🔹 Sales Trend by Category
+![Sales Trend by Category](https://github.com/vipul818/retail-data-pipeline-databricks/blob/main/dashboard_screenshots/visualization.png)
 
 ---
 
